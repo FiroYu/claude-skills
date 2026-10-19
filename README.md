@@ -6,7 +6,7 @@ Public collection of [Claude Code](https://claude.com/claude-code) skills in the
 
 ### [limit-break](limit-break/) · 限界突破
 
-<img src="assets/limit-break-banner-v5.webp" alt="Black-and-white shōnen manga banner: the hero charges at the Demon King across a central corridor of white, the skill 限界突破 in vertical kanji between them" width="896">
+<img src="assets/limit-break-banner-v6.webp" alt="Black-and-white shōnen manga banner: under a looming demon lord, a fallen hero kneels at his lowest point as the skill 限界突破 ignites — one thin beam of light cutting through despair" width="896">
 
 **English**
 
