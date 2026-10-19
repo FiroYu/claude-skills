@@ -6,15 +6,17 @@ Public collection of [Claude Code](https://claude.com/claude-code) skills in the
 
 ### [limit-break](limit-break/) · 限界突破
 
-<img src="assets/limit-break-banner.webp" alt="A silhouette breaking through a glowing wall, shards and energy bursting out" width="896">
+<img src="assets/limit-break-banner.webp" alt="A cloaked hero unleashing the innate skill Limit Break against a wall of despair" width="896">
 
 **English**
 
-The boss looks unbeatable. Your best strategy has hit a wall. This is where Limit Break begins—not with a louder battle cry, but with a sharper question: what is actually holding the result back? This Claude Code skill turns an “impossible” goal into a testable hypothesis. It defines what success would mean, finds the dominant bottleneck, and challenges the assumptions that make the current path seem inevitable. Then it explores routes that work by different mechanisms: push the existing approach further, remove the bottleneck, or borrow a method from another field. The strongest candidate gets a small, decisive test under the real constraints. Results, costs, and counterexamples determine the next move. A failed attempt is useful evidence, not a cue to repeat the same attack with more force. Limit Break brings the energy of a last-chance RPG move to serious problem solving: aim high, change the mechanism, and let reality decide what broke through.
+The path ends here. The old method has failed, and the deadline is closing in. The hero draws one breath and releases the skill sealed until this moment: LIMIT BREAK. Choose the axis of the breakthrough—speed, altitude, depth, or range. Before striking, ask what an expert would demand: which work is missing, which original materials matter, which tools fit, and what evidence could settle the outcome. Then test paths that change the mechanism, including the one that looks too bold to try. Build something real. Let the source material challenge your assumptions and let results beyond your own judgment decide whether the move worked. If it fails, learn where the mechanism broke and strike again; if the battle returns, forge the lesson into a workflow that can run the next round. No victory is declared on conviction alone. The limit moves only as far as the evidence shows.
 
 **中文**
 
-眼前的难题像打不倒的最终 Boss，惯用招式已经撞上极限。限界突破不是喊一句“再努力”，而是先看清真正卡住结果的主导瓶颈：把看似不可能的目标写成可检验的假设，分清必须守住的约束与未经证实的惯例，再寻找机制不同的出路——把现有方法推到极致、绕开瓶颈，或借用其他领域的方法重构问题。选出最有潜力的一击，先用低成本实验检验关键假设；让实际结果、代价与反例决定继续推进还是换路。失败会留下线索，成功也只按证据宣告。像绝境中蓄满能量的 Limit Break 一击：目标够大胆，出手要换机制，突破了多少由事实裁决。
+旧路走到了尽头，期限步步逼近。勇者握紧剑柄，解放固有技能——「限界突破」。先选定要突破的方向：速度、高度、深度，或广度；再把专家会追问的缺口、原始材料、具体工具和外部判据写进任务。不要只把旧招使得更猛，还要寻找能绕开瓶颈、重构流程的不同机制，哪怕其中一条看起来太过大胆。拿出真正的作品或实验，让原始材料推翻臆测，让真实反馈裁决成败。失败了，就查清是哪项假设或机制失效，再出下一招；若战斗会反复到来，就把验证与行动锻造成持续运转的工作流。胜利无需夸口，突破到了哪里，只由证据作答。
+
+Method source · 方法来源: [How to be more ambitious — Felix Rieseberg](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/)
 
 ## Layout
 
