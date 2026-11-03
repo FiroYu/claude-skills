@@ -36,3 +36,6 @@ The skill loads automatically on the next session.
 ## Scope
 
 Only general-purpose, self-authored skills live here. Business-specific and personal skills stay in a private repo.
+
+## curate-source-to-publish
+从多平台搜集(X/YouTube/网页)→整理→翻译→编辑→校验→reportlab排版PDF→发布GitHub的完整内容策展流水线。含署名规则与发布检查单。
